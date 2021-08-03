@@ -1,1 +1,1 @@
-# preventing-sql-injection-attacks
+# PHP preventing-sql-injection-attacks
